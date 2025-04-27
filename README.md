@@ -1,0 +1,5 @@
+これ何
+
+CloudflareWorker用のMastodon休暇残時間表示更新くん
+いい感じに日付とhogehogeの休暇終了時の表示名を変えること
+あと環境変数も設定すること
